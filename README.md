@@ -30,8 +30,8 @@ Step 7: Save and run the application.
 ```
 /*
 Program to print the list of item.
-Developed by: Aaron Dominic Franklin
-Registeration Number : 212221040001
+Developed by: Khabir Ahmed
+Registeration Number : 212221040083
 */
 
 activity_main.xml
